@@ -1,6 +1,6 @@
  pipeline {
         agent any 
-        pipelineJob('example'
+        pipelineJob('example-007')
         stages {
           stage('Build') { 
             steps {
