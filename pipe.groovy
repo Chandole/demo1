@@ -5,7 +5,7 @@
       stage('print') { 
         echo 'code deploy'
       }
-      stage('Deploy') { 
+      stage('list content') { 
         sh label: '', script: 'ls'
       }
     }
