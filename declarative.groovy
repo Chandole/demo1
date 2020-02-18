@@ -1,6 +1,6 @@
  pipeline {
         agent any 
-        freeStyleJob('example007')
+        freeStyleJob('example-007')
         stages {
           stage('Build') { 
             steps {
