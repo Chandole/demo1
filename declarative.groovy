@@ -8,7 +8,7 @@
           }
           stage('print') { 
             steps {
-              
+               echo 'code deploy'
             }
           }
           stage('Deploy') { 
