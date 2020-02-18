@@ -11,9 +11,9 @@
                echo 'code deploy'
             }
           }
-          stage('Deploy') { 
+          stage('kiran') { 
             steps {
-              // 
+              
             }
           }
         }
