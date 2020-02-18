@@ -6,7 +6,7 @@
               git 'https://github.com/Chandole/sample.git'
             }
           }
-          stage('Test') { 
+          stage('print') { 
             steps {
               // 
             }
