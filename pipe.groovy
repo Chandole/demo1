@@ -6,6 +6,6 @@
         echo 'code deploy'
       }
       stage('Deploy') { 
-        // 
+        
       }
     }
