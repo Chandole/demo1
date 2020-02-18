@@ -3,7 +3,7 @@
         stages {
           stage('Build') { 
             steps {
-              // 
+              git 'https://github.com/Chandole/sample.git'
             }
           }
           stage('Test') { 
