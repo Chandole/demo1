@@ -13,7 +13,7 @@
           }
           stage('kiran') { 
             steps {
-              
+              sh label: '', script: 'ls'
             }
           }
         }
